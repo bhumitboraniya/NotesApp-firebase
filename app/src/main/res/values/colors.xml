@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_purple">#913eff</color>
+        <color name="edit_text_background_color">#F0F0F0</color>
+        <color name="edit_text_border_color">#CCCCCC</color>
+        <color name="button_default_color">#007AFF</color>
+        <color name="button_border_color">#007AFF</color>
+        <color name="button_pressed_color">#0056B3</color>
+
+    <color name="hint_text_color">#999999</color>
+
+    <!-- Text color for blue text -->
+    <color name="blue">#007AFF</color>
+
+</resources>
